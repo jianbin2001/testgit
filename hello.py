@@ -7,5 +7,4 @@ print ("ddd112")
 
 print("write in dev and test branch, fix conflit")
 
-print("dev branch, write 1")
-print("test branch, wirte 1")
+print ("test revert")
